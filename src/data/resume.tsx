@@ -138,7 +138,7 @@ export const DATA = {
       active: true,
       description: "Nous avons conçu une solution robuste qui sert à gérer d'un système des établissements d'enseignement. Doté d'une interface de configuration basée sur Angular, d'une automatisation des tâches cron nocturnes, ce projet est déployé sur un VPS évolutif utilisant Gunicorn et Nginx.",    
       technologies: [
-        "Angular",
+        "VueJS",
         "Gunicorn",
         "Nginx",
       ],
@@ -158,7 +158,7 @@ export const DATA = {
       dates: "Décembre 2023 - Avril 2023",
       active: true,
       technologies: [
-        "Angular",
+        "VueJS",
         "NodeJS",
         "MongoDB",
         "Typescript"
@@ -182,7 +182,7 @@ export const DATA = {
       dates: "Janvier 2024 - Mai 2024",
       active: true,
       technologies: [
-        "Angular",
+        "VueJS",
         "NodeJS",
         "MongoDB",
         "Typescript"
@@ -206,7 +206,7 @@ export const DATA = {
       active: true,
 
       technologies: [
-        "Angular",
+        "VueJS",
       ],
       links: [
         {
@@ -227,7 +227,7 @@ export const DATA = {
       dates: "Décembre 2024 - Juin 2025",
       active: true,
       technologies: [
-        "Angular",
+        "VueJS",
       ],
       links: [
         {
@@ -238,8 +238,7 @@ export const DATA = {
 
       ],
       image: "/elzeiPortageWebsite.png",
-      video:
-        "",
+      video:"",
     },
 
 
