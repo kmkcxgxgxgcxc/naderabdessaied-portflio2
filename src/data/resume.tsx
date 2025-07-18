@@ -111,7 +111,7 @@ export const DATA = {
   education: [
     {
       school: "École Pluridisciplinaire de Sousse (EPI)",
-      href: "https://isetso.rnu.tn/",
+      href: "https://www.episup.com/fr",
       degree: "Licence applique en développement web et multimédia",
       logoUrl: "/téléchargement.jpeg",
       start: "2020",
@@ -119,7 +119,7 @@ export const DATA = {
     },
     {
       school: "Institut Supérieur des Études Technologiques de Sousse (IsetSo)",
-      href: "https://www.episup.com/fr",
+      href: "https://isetso.rnu.tn/",
       degree: "Ingénierie logicielle",
       logoUrl: "/1280px-Logo_EPI_Sousse.png",
       start: "2020",
@@ -132,28 +132,24 @@ export const DATA = {
 
   projects: [
      {
-      title: "Grattoir à travail ",
-      href: "http://213.130.144.156/",
+      title: "site eskooly",
+      href: "https://eskooly.com/",
       dates: "Jan 2024 - jun 2024",
       active: true,
-      description: "Nous avons conçu une solution robuste qui automatise la collecte d'offres d'emploi sur plusieurs sites et intègre parfaitement les données à une plateforme personnalisée avec MySQL. Doté d'une interface de configuration basée sur Angular, d'une automatisation des tâches cron nocturnes, ce projet est déployé sur un VPS évolutif utilisant Gunicorn et Nginx.",    
+      description: "Nous avons conçu une solution robuste qui sert à gérer d'un système des établissements d'enseignement. Doté d'une interface de configuration basée sur Angular, d'une automatisation des tâches cron nocturnes, ce projet est déployé sur un VPS évolutif utilisant Gunicorn et Nginx.",    
       technologies: [
-        "Python",
-        "Flask",
         "Angular",
-        "MySQL",
         "Gunicorn",
         "Nginx",
       ],
       links: [
         {
           type: "Website",
-          href: "http://213.130.144.156/",
+          href: "https://eskooly.com/",
           icon: <Icons.globe className="size-3" />,
         },
       ],
-      image: "",
-      video: "/jobScrapDemo.mp4",
+      image: "Captureeskooly.png"
     },
 
      {
@@ -253,48 +249,6 @@ export const DATA = {
   ],
 
 
-  hackathons: [
-   
-    {
-      title: "Coursera - Introduction to DevOps",
-      dates: "Sep 2024",
-      location: "",
-      description: "Completed the 'Introduction to DevOps' course on Coursera, covering key concepts such as CI/CD, automation, infrastructure as code (IaC), monitoring, and collaboration between development and operations teams.",
-      image: "/coursera-logo.png",
-      win: "",
-      mlh: "",
-      links: [
-  
-      ],
-    },
-
-
-    {
-      title: "Machine Learning Bootcamp Certification",
-      dates: "Jan 2022", 
-      location: "IEEE ISSAT Sousse Student Branch",
-      description: "Certified for participating in the Machine Learning Bootcamp Weekend, covering fundamental concepts and practical applications of machine learning.",
-      image: "/ieee.jpg", 
-      mlh: "",
-      links: [
-        
-      ],
-    },
-
-    {
-      title: "Microsoft Club Web Development Certification",
-      dates: "2021",
-      location: "Microsoft ISSAT Sousse Student Club",
-      description: "Certified for completing a year-long training on web development fundamentals, including HTML, CSS, and JavaScript, organized by the Microsoft Student Club.",
-      image: "/mic.png",
-      win: "",
-      mlh: "",
-      links: [
-        
-      ],
-    },
-
-  ],
 
 
 
