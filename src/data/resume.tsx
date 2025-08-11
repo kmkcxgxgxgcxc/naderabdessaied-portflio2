@@ -59,7 +59,6 @@ export const DATA = {
         name: "Send Email",
         url: "#",
         icon: Icons.email,
-
         navbar: false,
       },
     },
@@ -72,11 +71,10 @@ export const DATA = {
       href: "",
       badges: [],
       location: "On-site",
-      title: "Déveloper Fullstack Web ",
+      title: "Développeur Fullstack Web ",
       logoUrl: "GPRO Consulting",
       start: "Juillet 2024",
-      end: "aujourd'hui",
-
+      end: "juillet 2025",
     },
 
      {
@@ -84,7 +82,7 @@ export const DATA = {
       href: "",
       badges: [],
       location: "Hybrid",
-      title: "Déveloper Fullstack Web",
+      title: "Développeur Fullstack Web",
       logoUrl: "/Biilcom Consulting.jpg",
       start: "mai 2023",
       end: "Jui 2024",
@@ -96,7 +94,7 @@ export const DATA = {
       href: "",
       badges: [],
       location: "On-site",
-      title: " Déveloper Fullstack Web",
+      title: " Développeur Fullstack Web",
       logoUrl: "/Devokt.png",
       start: "Juillet 2023",
       end: "avril 2023",
