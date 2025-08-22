@@ -194,27 +194,7 @@ export const DATA = {
 
 
 
-     {
-      title: "leboncoin",
-      href: "https://www.leboncoin.fr",
-      dates: "Janvier 2024 - Mai 2024",
-      active: true,
-      technologies: [
-        "NextJS",
-        "NodeJS",
-        "MongoDB",
-        "Typescript"
-      ],
-      links: [
-        {
-          type: "Website",
-          href: "https://www.leboncoin.fr",
-          icon: <Icons.globe className="size-3" />,
-        },
-      ],
-      image: "/Captureleboncoin.png",
-      video: "",
-    },
+    
 
 
      {
