@@ -151,12 +151,32 @@ export const DATA = {
     },
 
      {
+      title: "site de livraison de repas sous abonnement ",
+      href: "https://www.lyveat.com",
+      dates: "Mai 2023 - Octobre 2023",
+      active: true,
+      technologies: [
+        "VueJS",
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://www.lyveat.com",
+          icon: <Icons.globe className="size-3" />,
+        },
+
+      ],
+      image: "/lyveatcapture.png",
+      video:"",
+    },
+
+     {
       title: "site ehs",
       href: "https://www.ehs.com",
       dates: "Décembre 2023 - Avril 2023",
       active: true,
       technologies: [
-        "Angular",
+        "ReactJS",
         "NodeJS",
         "MongoDB",
         "Typescript"
@@ -180,7 +200,7 @@ export const DATA = {
       dates: "Janvier 2024 - Mai 2024",
       active: true,
       technologies: [
-        "Angular",
+        "NextJS",
         "NodeJS",
         "MongoDB",
         "Typescript"
@@ -219,7 +239,9 @@ export const DATA = {
 
 
 
-    {
+   
+
+     {
       title: "site Elzei Portage ",
       href: "https://elzei-uat.esy.es",
       dates: "Décembre 2024 - Juin 2025",
