@@ -213,7 +213,7 @@ export const DATA = {
           icon: <Icons.globe className="size-3" />,
         },
       ],
-      image: "/Captureehs.png",
+      image: "/CaptureWorkly.png",
       video: "",
     },
 
