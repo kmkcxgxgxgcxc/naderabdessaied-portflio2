@@ -129,26 +129,53 @@ export const DATA = {
 
 
   projects: [
+
      {
-      title: "site eskooly",
-      href: "https://eskooly.com/",
-      dates: "Jan 2024 - jun 2024",
+      title: "site Elzei Portage ",
+      href: "https://elzei-uat.esy.es",
+      dates: "Décembre 2024 - Mai 2025",
       active: true,
-      description: "Nous avons conçu une solution robuste qui sert à gérer d'un système des établissements d'enseignement. Doté d'une interface de configuration basée sur NextJS, d'une automatisation des tâches cron nocturnes, ce projet est déployé sur un VPS évolutif utilisant Gunicorn et Nginx.",    
       technologies: [
         "Angular",
-        "Gunicorn",
-        "Nginx",
       ],
       links: [
         {
           type: "Website",
-          href: "https://eskooly.com/",
+          href: "https://elzei-uat.esy.es",
+          icon: <Icons.globe className="size-3" />,
+        },
+
+      ],
+      image: "/elzeiPortageWebsite.png",
+      video:"",
+    },
+
+{
+      title: "site ehs",
+      href: "https://www.ehs.com",
+      dates: "Juillet 2024 - Novembre 2024",
+      active: true,
+      technologies: [
+        "ReactJS",
+        "NodeJS",
+        "MongoDB",
+        "Typescript"
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://www.ehs.com",
           icon: <Icons.globe className="size-3" />,
         },
       ],
-      image: "Captureeskooly.png"
+      image: "/Captureehs.png",
+      video: "",
     },
+    
+    
+
+
+
 
      {
       title: "site de livraison de repas sous abonnement ",
@@ -171,40 +198,13 @@ export const DATA = {
     },
 
      {
-      title: "site ehs",
-      href: "https://www.ehs.com",
-      dates: "Décembre 2023 - Avril 2023",
+      title: "site de gestion des horaires de travail en entreprise",
+      href: "https://workly.io/en",
+      dates: "fevrier 2023 - Mai 2023",
       active: true,
       technologies: [
         "ReactJS",
-        "NodeJS",
-        "MongoDB",
         "Typescript"
-      ],
-      links: [
-        {
-          type: "Website",
-          href: "https://www.ehs.com",
-          icon: <Icons.globe className="size-3" />,
-        },
-      ],
-      image: "/Captureehs.png",
-      video: "",
-    },
-
-
-
-    
-
-
-     {
-      title: "site workly",
-      href: "https://workly.io/en",
-      dates: "Juin 2024 - Novembre 2024",
-      active: true,
-
-      technologies: [
-        "Angular",
       ],
       links: [
         {
@@ -213,33 +213,61 @@ export const DATA = {
           icon: <Icons.globe className="size-3" />,
         },
       ],
-      image: "/CaptureWorkly.png",
+      image: "/Captureehs.png",
       video: "",
     },
+
+    
+     {
+      title: "site eskooly",
+      href: "https://eskooly.com/",
+      dates: "Octobre 2022 - Janvier 2023",
+      active: true,
+      description: "Nous avons conçu une solution robuste qui sert à gérer d'un système des établissements d'enseignement. Doté d'une interface de configuration basée sur NextJS, d'une automatisation des tâches cron nocturnes, ce projet est déployé sur un VPS évolutif utilisant Gunicorn et Nginx.",    
+      technologies: [
+        "Angular",
+        "Gunicorn",
+        "Nginx",
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://eskooly.com/",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "Captureeskooly.png"
+    },
+
+
+{
+      title: "site leboncoin (e-commerce)",
+      href: "https://www.leboncoin.fr/",
+      dates: "Juin 2022 - September 2022",
+      active: true,
+      technologies: [
+        "NextJS",
+        "Typescript"
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://www.leboncoin.fr/",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "/Captureleboncoin.png",
+      video: "",
+    },
+    
+
+
 
 
 
    
 
-     {
-      title: "site Elzei Portage ",
-      href: "https://elzei-uat.esy.es",
-      dates: "Décembre 2024 - Juin 2025",
-      active: true,
-      technologies: [
-        "Angular",
-      ],
-      links: [
-        {
-          type: "Website",
-          href: "https://elzei-uat.esy.es",
-          icon: <Icons.globe className="size-3" />,
-        },
-
-      ],
-      image: "/elzeiPortageWebsite.png",
-      video:"",
-    },
+    
 
 
   
