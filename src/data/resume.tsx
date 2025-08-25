@@ -133,10 +133,10 @@ export const DATA = {
      {
       title: "site Elzei Portage ",
       href: "https://elzei-uat.esy.es",
-      dates: "Décembre 2024 - Mai 2025",
+      dates: "Décembre 2024 - Avril 2025",
       active: true,
       technologies: [
-        "Angular",
+        "ReactJS",
       ],
       links: [
         {
@@ -183,7 +183,7 @@ export const DATA = {
       dates: "Mai 2023 - Octobre 2023",
       active: true,
       technologies: [
-        "VueJS",
+        "NextJS",
       ],
       links: [
         {
@@ -223,11 +223,9 @@ export const DATA = {
       href: "https://eskooly.com/",
       dates: "Octobre 2022 - Janvier 2023",
       active: true,
-      description: "Nous avons conçu une solution robuste qui sert à gérer d'un système des établissements d'enseignement. Doté d'une interface de configuration basée sur NextJS, d'une automatisation des tâches cron nocturnes, ce projet est déployé sur un VPS évolutif utilisant Gunicorn et Nginx.",    
+      description: "Nous avons conçu une solution robuste qui sert à gérer d'un système des établissements d'enseignement. Doté d'une interface de configuration basée sur NextJS, d'une automatisation des tâches cron nocturnes.",    
       technologies: [
-        "Angular",
-        "Gunicorn",
-        "Nginx",
+        "ReactJS"
       ],
       links: [
         {
