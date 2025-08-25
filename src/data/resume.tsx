@@ -71,10 +71,10 @@ export const DATA = {
       href: "",
       badges: [],
       location: "On-site",
-      title: "Développeur Fullstack Web ",
+      title: "Développeur Fullstack TS",
       logoUrl: "GPRO Consulting",
       start: "Juillet 2024",
-      end: "juillet 2025",
+      end: "En Cours",
     },
 
      {
@@ -82,7 +82,7 @@ export const DATA = {
       href: "",
       badges: [],
       location: "Hybrid",
-      title: "Développeur Fullstack Web",
+      title: "Développeur Fullstack Java",
       logoUrl: "/Biilcom Consulting.jpg",
       start: "mai 2023",
       end: "Jui 2024",
@@ -94,7 +94,7 @@ export const DATA = {
       href: "",
       badges: [],
       location: "On-site",
-      title: " Développeur Fullstack Web",
+      title: " Développeur Fullstack JS/TS",
       logoUrl: "/Devokt.png",
       start: "Juillet 2023",
       end: "avril 2023",
@@ -137,6 +137,7 @@ export const DATA = {
       active: true,
       technologies: [
         "ReactJS",
+        "React Redux",
         "Typescript"
       ],
       links: [
@@ -158,7 +159,8 @@ export const DATA = {
       active: true,
       technologies: [
         "ReactJS",
-        "Typescript"
+        "Typescript",
+        "React Redux",
       ],
       links: [
         {
@@ -204,7 +206,8 @@ export const DATA = {
       active: true,
       technologies: [
         "ReactJS",
-        "Javascript"
+        "Javascript",
+        "React Redux",
       ],
       links: [
         {
@@ -226,7 +229,8 @@ export const DATA = {
       description: "Nous avons conçu une solution robuste qui sert à gérer d'un système des établissements d'enseignement. Doté d'une interface de configuration basée sur NextJS, d'une automatisation des tâches cron nocturnes.",    
       technologies: [
         "ReactJS",
-        "Typescript"
+        "Typescript",
+        "React Redux",
       ],
       links: [
         {
