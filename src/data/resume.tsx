@@ -82,7 +82,7 @@ export const DATA = {
       href: "",
       badges: [],
       location: "Hybrid",
-      title: "Développeur Fullstack Java",
+      title: "Développeur  Java",
       logoUrl: "/Biilcom Consulting.jpg",
       start: "mai 2023",
       end: "Jui 2024",
