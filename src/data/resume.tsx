@@ -137,6 +137,7 @@ export const DATA = {
       active: true,
       technologies: [
         "ReactJS",
+        "Typescript"
       ],
       links: [
         {
@@ -157,8 +158,6 @@ export const DATA = {
       active: true,
       technologies: [
         "ReactJS",
-        "NodeJS",
-        "MongoDB",
         "Typescript"
       ],
       links: [
@@ -184,6 +183,7 @@ export const DATA = {
       active: true,
       technologies: [
         "NextJS",
+        "Typescript"
       ],
       links: [
         {
@@ -204,7 +204,7 @@ export const DATA = {
       active: true,
       technologies: [
         "ReactJS",
-        "Typescript"
+        "Javascript"
       ],
       links: [
         {
@@ -225,7 +225,8 @@ export const DATA = {
       active: true,
       description: "Nous avons conçu une solution robuste qui sert à gérer d'un système des établissements d'enseignement. Doté d'une interface de configuration basée sur NextJS, d'une automatisation des tâches cron nocturnes.",    
       technologies: [
-        "ReactJS"
+        "ReactJS",
+        "Typescript"
       ],
       links: [
         {
