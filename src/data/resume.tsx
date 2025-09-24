@@ -181,7 +181,7 @@ export const DATA = {
      {
       title: "site de livraison de repas sous abonnement ",
       href: "https://www.lyveat.com",
-      dates: "Mai 2023 - Octobre 2023",
+      dates: "Mai 2023 - Août 2023",
       active: true,
       technologies: [
         "NextJS",
