@@ -130,27 +130,48 @@ export const DATA = {
 
   projects: [
 
-     {
-      title: "site Elzei Portage ",
-      href: "https://elzei-uat.esy.es",
-      dates: "Décembre 2024 - Avril 2025",
+       {
+      title: "site eskooly",
+      href: "https://eskooly.com/",
+      dates: "Mai 2025 - September 2025",
       active: true,
+      description: "Nous avons conçu une solution robuste qui sert à gérer d'un système des établissements d'enseignement. Doté d'une interface de configuration basée sur NextJS, d'une automatisation des tâches cron nocturnes.",    
       technologies: [
         "ReactJS",
+        "Typescript",
         "React Redux",
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://eskooly.com/",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "Captureeskooly.png"
+    },
+
+
+{
+      title: "site leboncoin (e-commerce)",
+      href: "https://www.leboncoin.fr/",
+      dates: "Decembre 2024 - Avril 2025",
+      active: true,
+      technologies: [
+        "NextJS",
         "Typescript"
       ],
       links: [
         {
           type: "Website",
-          href: "https://elzei-uat.esy.es",
+          href: "https://www.leboncoin.fr/",
           icon: <Icons.globe className="size-3" />,
         },
-
       ],
-      image: "/elzeiPortageWebsite.png",
-      video:"",
+      image: "/Captureleboncoin.png",
+      video: "",
     },
+    
 
 {
       title: "site ehs",
@@ -181,7 +202,7 @@ export const DATA = {
      {
       title: "site de livraison de repas sous abonnement ",
       href: "https://www.lyveat.com",
-      dates: "Mai 2023 - Août 2023",
+      dates: "Mai 2023 - Octobre  2023",
       active: true,
       technologies: [
         "NextJS",
@@ -199,70 +220,9 @@ export const DATA = {
       video:"",
     },
 
-     {
-      title: "site de gestion des horaires de travail en entreprise",
-      href: "https://workly.io/en",
-      dates: "fevrier 2023 - Mai 2023",
-      active: true,
-      technologies: [
-        "ReactJS",
-        "Javascript",
-        "React Redux",
-      ],
-      links: [
-        {
-          type: "Website",
-          href: "https://workly.io/en",
-          icon: <Icons.globe className="size-3" />,
-        },
-      ],
-      image: "/CaptureWorkly.png",
-      video: "",
-    },
-
     
-     {
-      title: "site eskooly",
-      href: "https://eskooly.com/",
-      dates: "Octobre 2022 - Janvier 2023",
-      active: true,
-      description: "Nous avons conçu une solution robuste qui sert à gérer d'un système des établissements d'enseignement. Doté d'une interface de configuration basée sur NextJS, d'une automatisation des tâches cron nocturnes.",    
-      technologies: [
-        "ReactJS",
-        "Typescript",
-        "React Redux",
-      ],
-      links: [
-        {
-          type: "Website",
-          href: "https://eskooly.com/",
-          icon: <Icons.globe className="size-3" />,
-        },
-      ],
-      image: "Captureeskooly.png"
-    },
-
-
-{
-      title: "site leboncoin (e-commerce)",
-      href: "https://www.leboncoin.fr/",
-      dates: "Juin 2022 - September 2022",
-      active: true,
-      technologies: [
-        "NextJS",
-        "Typescript"
-      ],
-      links: [
-        {
-          type: "Website",
-          href: "https://www.leboncoin.fr/",
-          icon: <Icons.globe className="size-3" />,
-        },
-      ],
-      image: "/Captureleboncoin.png",
-      video: "",
-    },
     
+   
 
 
 
