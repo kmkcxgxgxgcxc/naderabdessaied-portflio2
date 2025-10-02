@@ -156,8 +156,9 @@ export const DATA = {
     },
 
     {
-      title: "site leboncoin (e-commerce)",
-      href: "https://www.leboncoin.fr/",
+      title: "site workly",
+      href: "https://workly.io/en",
+       description: "Nous avons conçu une solution robuste qui sert à gérer  les heures des employés dans la sociéte.",    
       dates: "Decembre 2024 - Avril 2025",
       active: true,
       technologies: [
@@ -167,11 +168,11 @@ export const DATA = {
       links: [
         {
           type: "Website",
-          href: "https://www.leboncoin.fr/",
+          href: "https://workly.io/en",
           icon: <Icons.globe className="size-3" />,
         },
       ],
-      image: "/Captureleboncoin.png",
+      image: "/CaptureWorkly.png",
       video: "",
     },
 
