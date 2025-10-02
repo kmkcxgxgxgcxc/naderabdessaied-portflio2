@@ -162,8 +162,11 @@ export const DATA = {
       dates: "Decembre 2024 - Avril 2025",
       active: true,
       technologies: [
-        "NextJS",
-        "Typescript"
+         "Angular",
+        "Typescript",
+        "Angular Material",
+        "Tailwind CSS",
+        "NgRx",
       ],
       links: [
         {
