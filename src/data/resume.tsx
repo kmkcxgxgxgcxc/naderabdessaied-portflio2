@@ -132,7 +132,75 @@ export const DATA = {
 
     
 
-    
+    {
+      title: "site eskooly",
+      href: "https://eskooly.com/",
+      dates: "Mai  2025 - September  2025",
+      active: true,
+      description: "Nous avons conçu une solution robuste qui sert à gérer d'un système des établissements d'enseignement. Doté d'une interface de configuration basée sur Angular, d'une automatisation des tâches cron nocturnes.",    
+      technologies: [
+        "React",
+        "Typescript",
+        "Material UI",
+        "Tailwind CSS",
+        "React Redux",
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://eskooly.com/",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "Captureeskooly.png"
+    },
+
+    {
+      title: "site workly",
+      href: "https://workly.io/en",
+       description: "Nous avons conçu une solution robuste qui sert à gérer  les heures des employés dans la sociéte.",    
+      dates: "Decembre 2024 - Avril 2025",
+      active: true,
+      technologies: [
+        "React",
+        "Typescript",
+        "Material UI",
+        "Tailwind CSS",
+        "React Redux",
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://workly.io/en",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "/CaptureWorkly.png",
+      video: "",
+    },
+
+{
+      title: "site ehs",
+      href: "https://www.ehs.com",
+      dates: "Juillet 2024 - Novembre 2024",
+      active: true,
+      technologies: [
+        "React",
+        "Typescript",
+        "Material UI",
+        "Tailwind CSS",
+        "React Redux",
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://www.ehs.com",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "/Captureehs.png",
+      video: "",
+    },
     
     
 
