@@ -158,13 +158,13 @@ export default function Page() {
             <div className="flex flex-col items-center justify-center space-y-4 text-center">
               <div className="space-y-2">
                 <div className="inline-block rounded-lg bg-foreground text-background px-3 py-1 text-sm">
-                  Clubs & Activities
+                  Clubs & Activitiés
                 </div>
                 <h2 className="text-3xl font-bold tracking-tighter sm:text-5xl">
-                  Community Involvement
+                  Engagement communautaire
                 </h2>
                 <p className="text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                  I actively participate in various clubs and organizations, contributing to community service and professional development.
+                  Je participe activement à divers clubs et organisations, contribuant au service communautaire et au développement professionnel.
                 </p>
               </div>
             </div>
