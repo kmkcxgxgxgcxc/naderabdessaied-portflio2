@@ -139,10 +139,11 @@ export const DATA = {
       active: true,
       description: "Nous avons conçu une solution robuste qui sert à gérer d'un système des établissements d'enseignement. Doté d'une interface de configuration basée sur Angular, d'une automatisation des tâches cron nocturnes.",    
       technologies: [
-        "NextJS",
+        "React",
         "Typescript",
+        "Material UI",
         "Tailwind CSS",
-        "Material UI"
+        "React Redux",
       ],
       links: [
         {
@@ -161,10 +162,11 @@ export const DATA = {
       dates: "Decembre 2024 - Avril 2025",
       active: true,
       technologies: [
-        "NextJS",
+        "React",
         "Typescript",
+        "Material UI",
         "Tailwind CSS",
-        "Material UI"
+        "React Redux",
       ],
       links: [
         {
@@ -183,10 +185,11 @@ export const DATA = {
       dates: "Juillet 2024 - Novembre 2024",
       active: true,
       technologies: [
-        "NextJS",
+      "React",
         "Typescript",
+        "Material UI",
         "Tailwind CSS",
-        "Material UI"
+        "React Redux",
       ],
       links: [
         {
@@ -210,10 +213,11 @@ export const DATA = {
       dates: "Mai 2023 - Octobre 2023",
       active: true,
       technologies: [
-        "NextJS",
+         "Angular",
         "Typescript",
+        "Angular Material ",
         "Tailwind CSS",
-        "Material UI",
+        "NgRx",
         "NodeJS",
         "MongoDB"
       ],
